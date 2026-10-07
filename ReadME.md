@@ -40,7 +40,7 @@ A capstone project simulating a complete retail data architecture. Features cust
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/data-engineering-practicals.git
+git clone https://github.com/Rushi-Khairnar/data-engineering-practicals.git
 cd data-engineering-practicals
 
 ```
